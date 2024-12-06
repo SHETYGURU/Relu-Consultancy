@@ -71,7 +71,7 @@ const Login = () => {
     <div className="min-h-screen flex flex-col lg:flex-row justify-center items-center bg-white">
       {/* Left Section with Video */}
       <div className="hidden lg:block lg:w-2/5">
-      <h1 className="absolute top-5 left-5 text-xl font-bold text-white z-20">Destion Innovations LLP</h1>
+      <h1 className="absolute top-5 left-5 text-xl font-bold text-white z-20">Relu Consultancy</h1>
 
         <video
           className="w-full h-full object-cover"
@@ -91,7 +91,7 @@ const Login = () => {
           {/* Logo and Company Name for Mobile View */}
           <div className="block lg:hidden mb-4 text-center">
             <img src="/assets/logo.png" alt="Company Logo" className="mx-auto mb-2" style={{ width: '100px', height: '100px' }} />
-            <h1 className="text-2xl font-bold">Destion Innovations LLP</h1>
+            <h1 className="text-2xl font-bold">Relu Consultancy</h1>
           </div>
 
           <h2 className="text-xl font-semibold text-gray-700 text-center mb-6">

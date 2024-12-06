@@ -87,7 +87,7 @@ const Signup = () => {
     <div className="min-h-screen flex flex-col lg:flex-row justify-center items-center bg-white">
       {/* Left Section with Video - hidden on mobile */}
       <div className="hidden lg:block lg:w-2/5 relative">
-        <h1 className="absolute top-5 left-5 text-xl font-bold text-white z-20">Destion Innovations LLP</h1>
+        <h1 className="absolute top-5 left-5 text-xl font-bold text-white z-20">Relu Consultancy</h1>
         <video 
           className="w-full h-full object-cover z-10" 
           autoPlay 
@@ -105,7 +105,7 @@ const Signup = () => {
         <div className="w-full max-w-md p-8 bg-white">
           <div className="block lg:hidden mb-4 text-center">
             <img src="/assets/logo.png" alt="Company Logo" className="mx-auto mb-2" style={{ width: '100px', height: '100px' }} />
-            <h1 className="text-2xl font-bold">Destion Innovations LLP</h1>
+            <h1 className="text-2xl font-bold">Relu Consultancy</h1>
           </div>
           <h2 className="text-xl font-semibold text-gray-700 text-center mb-4">
             Create an Account
