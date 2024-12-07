@@ -7,7 +7,6 @@ This project is a simple web application that displays a list of artists along w
 You can view the live demo of this project by visiting the link below:
 
 [Live Demo](https://reluconsultancy.netlify.app)  
-(Note: Replace with your actual live demo URL if hosted)
 
 ## Tech Stack
 
